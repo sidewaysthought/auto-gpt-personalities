@@ -1,7 +1,7 @@
 # auto-gpt-personalities
 One or more ai_settings files for Auto-GPT tweaked to do things Auto-GPT wasn't really meant to do.
 ## Instructions
-Download a yaml file and place it in your Auto-GPT folder, the same folder where your .env file is located.
+Download a yaml file and place it in your Auto-GPT folder, the same folder where your .env file is located. Either rename the file to 'ai_settings.yaml' or start Auto-GPT with the '--ai-settings <filename>' argument.
 
 # Personalities
 ## Lin
