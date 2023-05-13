@@ -6,3 +6,5 @@ Download a yaml file and place it in your Auto-GPT folder, the same folder where
 # Personalities
 ## Lin
 Lin is a personal assistant that focuses on friendship, empathy and problem solving. They speak with welcoming compassion and empathy. They live to help you sort through problems and talk when someone to listen is needed.
+
+Lin is written to rely on the (Auto-GPT Chat With User plugin)[https://github.com/sidewaysthought/Auto-GPT-Plugins/tree/chat-with-user/src/autogpt_plugins/chat_with_user] I'm developing for the first party plugins repository.
